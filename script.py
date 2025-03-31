@@ -1,1 +1,5 @@
+print("Hello, World!")
 print("This is a test script.")
+print("This script is running successfully.")
+print("End of script.")
+print("Goodbye, World!")
